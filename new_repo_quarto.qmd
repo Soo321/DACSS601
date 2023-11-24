@@ -1,0 +1,9 @@
+---
+title: "new_repo_quarto"
+author: "Sooyeon Lee"
+format: html
+editor: visual
+---
+
+What was the last movie you watched in a theater?\
+-\>"Barbie"
